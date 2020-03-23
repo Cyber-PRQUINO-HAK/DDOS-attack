@@ -19,5 +19,5 @@ Serangan DoS adalah jenis serangan terhadap sebuah komputer atau server di dalam
 * $ apt install python
 * $ apt install python2
 * $ apt install nano
-* $ git clone 
+* $ git clone https://github.com/Cyber-PRQUINO-HAK/DDOS-attack
 ```
