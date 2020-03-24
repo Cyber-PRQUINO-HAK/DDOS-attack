@@ -61,6 +61,15 @@ Simpulan
 Dengan semakin berkembangnya dunia online, begitu juga dengan ancaman-ancaman yang ada di dunia online. DDoS hanyalah satu dari sekian banyak ancaman yang ada di dunia online. Kalau Anda ingin tahu lebih banyak tentang keamanan sibernetika di Indonesia, Anda bisa mendownload eBook kami Cyber Security: Issue and Guide 2018. Semoga membantu ya!
 
 # Cara Mengatasi Serangan DDoS
+
+Melakukan Identifikasi Serangan, serangan akan terlihat tanda-tandanya jika mengecek server. Apabila sudah diketahui, alangkah baiknya mempersiapkan penangannya sebelum terjadi serangan yang lebih serius. Seperti kasus berikut:
+Syn Flooding, gunakan firewal untuk tidak meneruskan paket data yang tidak diketahui dengan jelas asalnya.
+Remote Controled Attack, block alamat IP dan portnya.
+UDP Flooding, Menolak paket trafik yang datang dari luar jaringan dan mematikan semua layanan UDP.
+Smurf Attack, disable broadcast address pada router atau filtering permintaan ICMP echo request pada firewall atau juga membatasi trafik ICMP.
+Mempertahankan Parameter Network, salah satunya dengan memperbesar bandwith. Cara ini hanya memberikan waktu supaya sistem tidak down, tetapi cara ini kurang ampuh terhada serangan yang besar.
+Menghubungi Hosting Provider atau ISP, mereka dapat melacak serangan yang terjadi melalui alamat ip di sistem.
+Menghubungi Spesialis DDoS, jika cara diatas tidak berhasil. Bisa dengan menghubungi spesialis yang akan membantu untuk menangani serangan yang terjadi.
 # how to install
 ### DDOS-attack
 ```bash
