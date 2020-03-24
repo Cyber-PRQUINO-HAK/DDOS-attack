@@ -5,11 +5,18 @@
 # WLCOME TO TOOLS PRQUINO
 ### ----------------------------------------------------------------------------------------------------------------------------------------
 
+
+<img src="ddos-attack.jpg">
+
+
+
 ### APA ITU DDOS
 Serangan DoS adalah jenis serangan terhadap sebuah komputer atau server di dalam jaringan internet dengan cara menghabiskan sumber yang dimiliki oleh komputer tersebut sampai komputer tersebut tidak
 Distributed Denial of Service atau lebih dikenal dengan nama DDoS adalah sebuah percobaan penyerangan dari beberapa sistem komputer yang menargetkan sebuah server agar jumlah traffic menjadi terlalu tinggi sampai server tidak bisa menghandle requestnya.
 
 DDoS biasa dilakukan dengan menggunakan beberapa sistem komputer yang digunakan sebagai sumber serangan. Jadi mereka melakukan serangan ke satu server melalui beberapa komputer agar jumlah traffic juga bisa lebih tinggi. Serangan DDoS bisa dibilang seperti kemacetan lalu lintas yang menghalangi pengemudi untuk mencapai tujuan yang diinginkan dengan tepat waktu.
+
+<img src="Bulgariandataleak-580x358.jpg">
 
 Lalu bagaimana sebenarnya cara kerja serangan DDoS ini?
 
@@ -61,6 +68,8 @@ Simpulan
 Dengan semakin berkembangnya dunia online, begitu juga dengan ancaman-ancaman yang ada di dunia online. DDoS hanyalah satu dari sekian banyak ancaman yang ada di dunia online. Kalau Anda ingin tahu lebih banyak tentang keamanan sibernetika di Indonesia, Anda bisa mendownload eBook kami Cyber Security: Issue and Guide 2018. Semoga membantu ya!
 
 # Cara Mengatasi Serangan DDoS
+
+<img src="1__SYPkk4pCgs3rNo3JQ6RyA.png">
 
 Melakukan Identifikasi Serangan, serangan akan terlihat tanda-tandanya jika mengecek server. Apabila sudah diketahui, alangkah baiknya mempersiapkan penangannya sebelum terjadi serangan yang lebih serius. Seperti kasus berikut:
 Syn Flooding, gunakan firewal untuk tidak meneruskan paket data yang tidak diketahui dengan jelas asalnya.
