@@ -6,7 +6,7 @@
 ### ----------------------------------------------------------------------------------------------------------------------------------------
 
 
-<img src="ddos-attack.jpg">
+<img src="ddos-attack.jpeg">
 
 
 
@@ -90,3 +90,5 @@ Menghubungi Spesialis DDoS, jika cara diatas tidak berhasil. Bisa dengan menghub
 * $ git clone https://github.com/Cyber-PRQUINO-HAK/DDOS-attack
 ```
 # TERIMAKASIH
+[https://github.com/Cyber-PRQUINO-HAK/DDOS-attack](#https://github.com/Cyber-PRQUINO-HAK/DDOS-attack)
+
