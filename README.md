@@ -2,13 +2,9 @@
 
 <img src="gambartools.jpg">
 
-* .........--......
-* .......|o_o |....
-* .......|:_/ |....
-* ......//   \ \...
-* .....(|     | )..
-* ..../'\_   _/`\..
-* ....\___)=(___/..
+# WLCOME TO TOOLS PRQUINO
+###----------------------------------------------------------------------------------------------------------------------------------------
+
 ### APA ITU DDOS
 Serangan DoS adalah jenis serangan terhadap sebuah komputer atau server di dalam jaringan internet dengan cara menghabiskan sumber yang dimiliki oleh komputer tersebut sampai komputer tersebut tidak
 Distributed Denial of Service atau lebih dikenal dengan nama DDoS adalah sebuah percobaan penyerangan dari beberapa sistem komputer yang menargetkan sebuah server agar jumlah traffic menjadi terlalu tinggi sampai server tidak bisa menghandle requestnya.
@@ -63,6 +59,8 @@ Akamai adalah salah satu pemimpin di bidang cybersecurity dan CDN. Berdasarkan a
 Simpulan
 
 Dengan semakin berkembangnya dunia online, begitu juga dengan ancaman-ancaman yang ada di dunia online. DDoS hanyalah satu dari sekian banyak ancaman yang ada di dunia online. Kalau Anda ingin tahu lebih banyak tentang keamanan sibernetika di Indonesia, Anda bisa mendownload eBook kami Cyber Security: Issue and Guide 2018. Semoga membantu ya!
+
+# Cara Mengatasi Serangan DDoS
 # how to install
 ### DDOS-attack
 ```bash
