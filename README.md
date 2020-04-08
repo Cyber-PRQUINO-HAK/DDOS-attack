@@ -95,7 +95,7 @@ Menghubungi Spesialis DDoS, jika cara diatas tidak berhasil. Bisa dengan menghub
 * $ cd Documents/
 * $ cd DDOS-attack/
 * $ ls
-* $ bat DDOS-attack/
+* $ bat DDOS-attack.bat
 
 
 ```
