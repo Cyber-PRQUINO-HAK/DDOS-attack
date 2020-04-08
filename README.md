@@ -88,6 +88,16 @@ Menghubungi Spesialis DDoS, jika cara diatas tidak berhasil. Bisa dengan menghub
 * $ apt install python2
 * $ apt install nano
 * $ git clone https://github.com/Cyber-PRQUINO-HAK/DDOS-attack
+* $ cd DDOS-attack
+* $ chmod +- DDOS-attack
+* $ ls
+* $ cd Desktop/
+* $ cd Documents/
+* $ cd DDOS-attack/
+* $ ls
+* $ bat DDOS-attack/
+
+
 ```
 # TERIMAKASIH
 [https://github.com/Cyber-PRQUINO-HAK/DDOS-attack](#https://github.com/Cyber-PRQUINO-HAK/DDOS-attack)
