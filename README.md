@@ -102,6 +102,8 @@ Menghubungi Spesialis DDoS, jika cara diatas tidak berhasil. Bisa dengan menghub
 # TERIMAKASIH
 [https://github.com/Cyber-PRQUINO-HAK/DDOS-attack](#https://github.com/Cyber-PRQUINO-HAK/DDOS-attack)
 
+## yutub 
+[https://youtu.be/dtjY2A6coEY](#https://youtu.be/dtjY2A6coEY)
 <img src="ddos.png">
 
 
