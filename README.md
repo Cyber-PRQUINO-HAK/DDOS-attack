@@ -104,6 +104,8 @@ Menghubungi Spesialis DDoS, jika cara diatas tidak berhasil. Bisa dengan menghub
 
 ## yutub 
 [https://youtu.be/dtjY2A6coEY](#https://youtu.be/dtjY2A6coEY)
+
+
 <img src="ddos.png">
 
 
